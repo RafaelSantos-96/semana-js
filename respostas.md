@@ -48,6 +48,20 @@ Esse exercício foi bem prático e me fez sentir como se estivesse criando algo 
 
 Juntar tudo isso em uma única página foi desafiador, mas me ajudou a consolidar o uso de APIs do navegador.
 
+Exercício 5: Classes e Herança
+Nesse exercício, eu aprendi como aplicar os conceitos de Programação Orientada a Objetos (POO) em JavaScript usando class, extends, e super.
+
+Criei uma classe Pessoa, com os atributos nome e idade, e um método apresentar() que retorna uma mensagem com essas informações.
+
+Depois, criei uma classe Aluno que herda de Pessoa usando extends. Isso me permitiu reaproveitar os atributos e métodos da classe base sem reescrevê-los.
+
+A classe Aluno adiciona um novo atributo (curso) e um novo método chamado estudar(), que só existe nessa subclasse.
+
+Também pratiquei a sobrescrita de métodos, modificando o método apresentar() na classe Aluno para incluir o curso junto com o nome e idade.
+
+Esse exercício me ajudou a entender como reutilizar código com herança, como organizar melhor as responsabilidades entre classes, e como sobrescrever métodos para personalizar comportamentos em subclasses.
+
+Foi interessante ver que, apesar de JavaScript ser uma linguagem dinâmica, ele oferece uma sintaxe clara para trabalhar com POO moderna.
 ---
 
 Conclusão
